@@ -1,2 +1,2 @@
-# Sitemap
+# Sitemap.js
 Sitemap Rama Rivansyah
